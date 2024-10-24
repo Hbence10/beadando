@@ -1,0 +1,10 @@
+.coverImg{
+  height: 375px;
+}
+
+.cardBody{
+  background-color: #222831;
+  width: 430px;
+  height: 550px;
+  border-radius: 5px;
+}
