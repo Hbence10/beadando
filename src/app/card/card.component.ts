@@ -13,6 +13,7 @@ export class CardComponent {
 
   constructor(public frontend : FrontendService, public router : Router){}
 
+  // Az adott anime detailsenek megtekintese:
   checkAnime(anime : Anime){
     this.frontend.selectedAnime = anime
     this.router.navigate(["details"])

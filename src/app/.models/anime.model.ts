@@ -6,7 +6,8 @@ export class Anime{
     public myAnimeListLink : string,
     public trailerLink : string,
     public mangaka : string,
-    public artist: string
+    public artist: string,
+    public studio : string[],
   ){
 
   }

@@ -12,6 +12,7 @@ export class HomePageComponent {
 
   constructor(public frontend : FrontendService, public router : Router){}
 
+  // Adott anime detailsenek megtekintese:
   checkAnime(anime : Anime){
     this.frontend.selectedAnime = anime
     this.router.navigate(["details"])

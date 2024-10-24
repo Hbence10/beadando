@@ -3,24 +3,29 @@
 @import url('https://fonts.googleapis.com/css2?family=Itim&display=swap'); /*alap*/
 
 /* Hatterek eleresi utvonalai */
+/* One Piece */
 #img1{
-    background-image: url("../../assets/img/1323165.png");
+    background-image: url("../../assets/img/carousel/onePiece.png");
 }
 
+/* Naruto */
 #img2{
-    background-image: url("../../assets/img/1328396.png");
+    background-image: url("../../assets/img/carousel/naruto.png");
 }
 
+/* Dragon Ball */
 #img3{
-  background-image: url("../../assets/img/1344311.png");
+  background-image: url("../../assets/img/carousel/dragonBall.png");
 }
 
+/* Lycoris Recoil */
 #img4{
-    background-image: url("../../assets/img/1348646.jpeg");
+    background-image: url("../../assets/img/carousel/lycorisRecoil.png");
 }
 
+/* Oregairu */
 #img5{
-    background-image: url("../../assets/img/1329815.jpeg");
+    background-image: url("../../assets/img/carousel/oregairu.jpg");
 }
 
 /* Altalanos beallitas a hatterekhez */
